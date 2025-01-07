@@ -45,15 +45,7 @@ This project predicts depression using Reddit comments. By leveraging machine le
 
     `cd repo-name`
 
-3.  Install dependencies:
-
-    bash
-
-    Copy code
-
-    `pip install -r requirements.txt`
-
-4.  Download pre-trained models:
+3.  Download pre-trained models:
     -   GoogleNews Word2Vec
     -   Facebook FastText
 
