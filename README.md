@@ -1,4 +1,4 @@
-**Depression Detection on Social Media**
+**Depression Detection on Social Media Using Transfer Learning**
 ========================================
 
 This project predicts depression using Reddit comments. By leveraging machine learning, natural language processing (NLP), and embeddings, it identifies depression-related text patterns.
